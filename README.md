@@ -28,6 +28,7 @@ A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server
  - Support Rtsp/Rtmp relay
  - Support multicore cluster mode
  
+# NPM LINK : (https://www.npmjs.com/package/node-media-server)
  
 # Todo 
 - [x] support record stream 
